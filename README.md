@@ -1,5 +1,7 @@
 # plot_discrete_cbar
 
+Source with `https://raw.githubusercontent.com/adrfantini/plot_discrete_cbar/master/plot_discrete_cbar.R`
+
 An R script to plot a discrete colour bar using ggplot2 such as this one:
 ![Example result](https://i.stack.imgur.com/RXBhr.png)
 
