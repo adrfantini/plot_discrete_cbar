@@ -1,3 +1,5 @@
+# OBSOLETE! [Ggplot 3.3.0](https://www.tidyverse.org/blog/2020/03/ggplot2-3-3-0/) introduced binned scales.
+
 # plot_discrete_cbar
 
 Source with `https://raw.githubusercontent.com/adrfantini/plot_discrete_cbar/master/plot_discrete_cbar.R`
